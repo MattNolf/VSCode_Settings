@@ -7,7 +7,7 @@
 - 1-32: window/workbench/editor
 - 34-36: platform specific
 - 38-48: language specific
-- 50-: extension specifi
+- 50-: extension specific
 
 
 [here]:https://github.com/tonsky/FiraCode
