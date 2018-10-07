@@ -1,0 +1,55 @@
+{
+    "window.openFilesInNewWindow": "default",
+    "window.restoreWindows": "folders",
+    "window.title": "${dirty}${rootName}${separator}${activeEditorShort}${separator}${appName}",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.startupEditor": "none",
+    "workbench.statusBar.feedback.visible": false,
+
+    "editor.renderWhitespace": "boundary",
+    "editor.renderControlCharacters": true,
+    "editor.minimap.enabled": false,
+    "editor.mouseWheelZoom": false,
+    "editor.cursorStyle": "block-outline",
+    "editor.insertSpaces": true,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+        "comments": "#0dc726c9",
+        "keywords": "#02c3fde5",
+        "functions": "#0cc21b",
+        "strings": "#ddda21f1",
+        "numbers": "#ddda21"
+    },
+
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3600000,
+
+    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+      
+    "terminal.external.linuxExec": "xterm",
+    "terminal.external.osxExec": "Terminal.app",
+    "terminal.external.windowsExec": "C:\\WINDOWS\\System32\\cmd.exe",
+
+    "go.autocompleteUnimportedPackages": true,
+    "go.buildOnSave": "workspace",
+    "go.inferGopath": false,
+    "go.liveErrors": {
+        "enabled": true,
+        "delay": 100
+      },
+    "go.formatTool": "gofmt",
+    "go.testTimeout": "120s",
+
+    "typescript.updateImportsOnFileMove.enabled": "always",
+
+    "travis.username": "MattNolf",
+
+    "git.confirmSync": false,
+    
+    "markdown.extension.preview.autoShowPreviewToSide": true
+}
