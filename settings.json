@@ -47,7 +47,7 @@
 
     "typescript.updateImportsOnFileMove.enabled": "always",
 
-    "travis.username": "MattNolf",
+    "travis.username": "",
 
     "git.confirmSync": false,
     
